@@ -1,0 +1,7 @@
+||googletagmanager.com^
+||audienceexposure.com^
+||gum.aidemsrv.com^
+||rtb.bid.com^
+||ecs.office.com^
+||api.msn.com^
+||tse1.mm.bing.net^
