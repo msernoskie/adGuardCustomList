@@ -5,3 +5,4 @@
 ||ecs.office.com^
 ||api.msn.com^
 ||tse1.mm.bing.net^
+||a1446.dscr.akamai.net^
