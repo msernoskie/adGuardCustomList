@@ -7,3 +7,4 @@
 ||tse1.mm.bing.net^
 ||a1446.dscr.akamai.net^
 ||rtb.bid.com^
+||audienceexposure.com^
