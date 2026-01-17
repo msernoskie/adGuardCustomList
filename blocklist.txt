@@ -8,3 +8,7 @@
 ||a1446.dscr.akamai.net^
 ||rtb.bid.com^
 ||audienceexposure.com^
+||api-ssp.spot.im^
+||prod-images.merino.prod.webservices.mozgcp.net^
+||img-getpocket.cdn.mozilla.net^
+||img-prod.pocket.prod.cloudops.mozgcp.net^
